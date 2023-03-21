@@ -1,3 +1,4 @@
+//Challenge 1
 //Solution for generating students grades
 //write a function generateStudent
 function generateStudentGrade() {
@@ -17,7 +18,7 @@ function generateStudentGrade() {
       return "E";
     }
   }
-
+//Challenge 2
 //Code solution for checking speed
 //using function declaration and expression
 function checkSpeed(speed) {
